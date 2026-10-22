@@ -6,7 +6,7 @@
   "backends": [
     {
       "name": "RN POS",
-      "url": "https://pos-v-20-production.up.railway.app",
+      "url": "https://test-production-1521.up.railway.app",
       "enabled": true
     },
     {
